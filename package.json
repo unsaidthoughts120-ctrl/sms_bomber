@@ -1,0 +1,7 @@
+{
+  "name": "sms-sender",
+  "version": "1.0.0",
+  "dependencies": {
+    "twilio": "^4.22.0"
+  }
+}
