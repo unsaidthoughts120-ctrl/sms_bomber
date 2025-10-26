@@ -1,9 +1,7 @@
 {
-  "version": 2,
-  "builds": [
-    {
-      "src": "api/send.js",
-      "use": "@vercel/node"
-    }
-  ]
+  "name": "sms-sender",
+  "version": "1.0.0",
+  "dependencies": {
+    "twilio": "^4.22.0"
+  }
 }
